@@ -27,7 +27,7 @@ import {
 import { WebView } from 'react-native-webview';
 
 const App = () => {
-  console.log('new project!');
+  console.log('new project!aaaaaaaaa');
   return (
     <Fragment>
       <StatusBar barStyle="dark-content" />
